@@ -81,9 +81,9 @@ pip install -r requirements.txt
 
 | Rank | Model                     | ROC AUC | Images |
 |------|---------------------------|---------|--------|
-| 🥇   | `llama-3-1-8b-instruct`    | **0.89** | <img src="https://github.com/user-attachments/assets/db6851c9-c30e-4671-bd85-518413e99d13" width="100" /> |
-| 🥈   | `llama-3-8b-instruct`      | 0.78    | <img src="https://github.com/user-attachments/assets/9b946e0b-130f-4541-8469-90010ee5a296" width="100" /> |
-| 🥉   | `llama-3-sqlcoder-8b`      | 0.73    | <img src="https://github.com/user-attachments/assets/c8221582-b8ee-43ec-af6c-9a8eaee74f2d" width="100" /> |
+| 🥇   | `llama-3-1-8b-instruct`    | **0.89** | <img src="https://github.com/user-attachments/assets/db6851c9-c30e-4671-bd85-518413e99d13" width="300" /> |
+| 🥈   | `llama-3-8b-instruct`      | 0.78    | <img src="https://github.com/user-attachments/assets/9b946e0b-130f-4541-8469-90010ee5a296" width="300" /> |
+| 🥉   | `llama-3-sqlcoder-8b`      | 0.73    | <img src="https://github.com/user-attachments/assets/c8221582-b8ee-43ec-af6c-9a8eaee74f2d" width="300" /> |
 
 
 These scores represent the **average area under the ROC curve (AUC)** for code smell detection across all prompts and input types.
