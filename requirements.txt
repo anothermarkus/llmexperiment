@@ -1,4 +1,5 @@
 pandas
-openai
 matplotlib
+openai
 httpx
+scikit-learn
