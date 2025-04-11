@@ -18,4 +18,4 @@ TypeError: can only concatenate str (not "float") to str
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/<your-notebook>.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/<your-notebook>.ipynb) <-- This link is also not working but looks cool
