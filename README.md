@@ -64,7 +64,6 @@ For each combination of model + prompt type + code input type:
 
 ## 📊 Visualizations
 
-- **Bar Chart**: Summarizes false positives and false negatives.
 - **ROC Curve**: Compares detection performance across models and prompt types.
 
 ---
