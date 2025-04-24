@@ -2,6 +2,9 @@
 
 This experiment evaluates how well various large language models (LLMs) detect **code smells** in code snippets using different prompt styles and input formats.
 
+Note: This experiment looks great, however, it was lacking data, so it ended up reporting a very good ROC curve with very limited data. In reality all the models I had to work with were inadequate.
+Next step is to host a local LLM and train it to see if any better results come out of it, and perhaps update this experiment with more data to put a nail in the coffin for these models as a basis for detecting code smells.
+
 ---
 
 ## 🎯 Goals
